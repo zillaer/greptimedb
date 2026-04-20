@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Error"],"struct":["ChunkImportFailedSnafu","DatabaseSnafu","EmptyChunkManifestSnafu","IncompleteSnapshotSnafu","ManifestVersionMismatchSnafu","MissingChunkDataSnafu","SchemaNotInSnapshotSnafu","SnapshotNotFoundSnafu","SnapshotStorageSnafu"],"type":["Result"]};
